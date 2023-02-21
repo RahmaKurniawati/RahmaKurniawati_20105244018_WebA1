@@ -1,0 +1,20 @@
+<html>
+<head>
+ <title>Web Pembelajaran</title>   
+</head>
+<body>
+    <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #954; background-color:gold; text-align: center;">Judul Web</h1>
+    <h2> <center>Sub Judul Web</center></h2>
+    <h6>Isi Judul</h6>
+    <p>berisi deskripsi tentang web pembelajaran</p>
+    <p style="border-style: dotted; font-size: 16pt; border-color: crimson; background-color:aquamarine;">paragraf 2 layanan web</p>
+<center><img src="minions-film.jpg" style="height: 50%;"></center>
+<center><img src="https://assets-a1.kompasiana.com/items/album/2015/07/06/minions-2015-wide-559a5516d993731b093f3d23.jpg" style="height: 50%;" alt=""> <img src="https://www.ruparupa.com/blog/wp-content/uploads/2022/07/karakter-minions-bob.jpeg" style="height: 50%; alt="></center>
+<center><img src="https://i.pinimg.com/originals/4b/35/c7/4b35c7f768fadc4c603f5b3e16629d74.gif" alt=""></center>
+
+
+</body>
+
+
+
+</html>
