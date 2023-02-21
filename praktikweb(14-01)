@@ -12,9 +12,39 @@
 <center><img src="https://assets-a1.kompasiana.com/items/album/2015/07/06/minions-2015-wide-559a5516d993731b093f3d23.jpg" style="height: 50%;" alt=""> <img src="https://www.ruparupa.com/blog/wp-content/uploads/2022/07/karakter-minions-bob.jpeg" style="height: 50%; alt="></center>
 <center><img src="https://i.pinimg.com/originals/4b/35/c7/4b35c7f768fadc4c603f5b3e16629d74.gif" alt=""></center>
 
+<center><h1>BELAJAR VIDEO</h1></center>
+<center><video width="500" controls src="Minion.mp4"></video> <iframe width="500" height="315" src="https://www.youtube.com/embed/6DxjJzmYsXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+<h1>BELAJAR AUDIO</h1>
+<audio controls src="banana song  minions.mp3"></audio>
+
+<h1>BELAJAR TABLE</h1>
+<table style="border: solid 3px">
+<tr>
+    <th>No</th>
+    <th>Nama</th>
+    <th>NIM</th>
+    <th>Asal</th>
+</tr>
+<tr>
+    <td>1</td>
+    <td>Rahma</td>
+    <td>20105244018</td>
+    <td>Sleman</td>
+</tr>
+</table>
+<br>
+<table>
+    <thead>
+        <tr>
+            <td>kolom 1</td>
+            <td>kolom 2</td>
+            <td>kolom 3</td>
+        </tr>
+    </thead>
+</table>
 
 </body>
-
 
 
 </html>
